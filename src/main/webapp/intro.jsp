@@ -7,10 +7,14 @@
 	<meta name="vieport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>Geek Factory Project</title>
+	
 	<link rel="stylesheet" href="./css/intro-style.css">
 	<link rel="icon" href="./img/icon.png">
-	
 	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+	
+	<!--  SRI JQuery script -->
+	<script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha384-p7RDedFtQzvcp0/3247fDud39nqze/MUmahi6MOWjyr3WKWaMOyqhXuCT1sM9Q+l" crossorigin="anonymous"></script>
+	
 </head>
 <body>
 
